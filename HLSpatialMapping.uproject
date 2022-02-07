@@ -30,6 +30,11 @@
 		{
 			"Name": "XRVisualization",
 			"Enabled": true
+		},
+		{
+			"Name": "MrtkHub",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/211d009f26e943f19f41bbbaff9f273c"
 		}
 	]
 }
